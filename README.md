@@ -8,7 +8,7 @@ I am a final year student in Mechanical Engineering. I am also a graduate of Goo
 
 * 🌍  I'm based in Türkiye
 * ✉️  You can contact me at [receparslan811@gmail.com](mailto:receparslan811@gmail.com)
-* 🧠  I'm learning Flutter, React Native, Kotlin,
+* 🧠  I'm learning Flutter, React Native, Kotlin, Firebase
 * ⚡  So as a result, I am an engineering student who is constantly trying to improve himself and I am in love with software.
 
 ### Skills

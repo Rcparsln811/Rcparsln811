@@ -4,7 +4,7 @@ Hi 👋 My name is Recep Arslan
 Software Developer
 ------------------
 
-I am a final year student in Mechanical Engineering. I am also a graduate of Google and a state-sponsored software program in Turkey. Apart from these, I develop mobile applications with React. I am constantly adding something to myself by learning something new every day. I think there is no limit to learning and improving yourself. If we expect exceptional things, we need to work under exceptional conditions.
+I am a Mechanical Engineer. I am also a graduate of Google and a state-sponsored software program in Turkey. Apart from these, I develop mobile applications with React. I am constantly adding something to myself by learning something new every day. I think there is no limit to learning and improving yourself. If we expect exceptional things, we need to work under exceptional conditions.
 
 * 🌍  I'm based in Türkiye
 * ✉️  You can contact me at [receparslan811@gmail.com](mailto:receparslan811@gmail.com)
